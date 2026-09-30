@@ -1,0 +1,16 @@
+{
+  "name": "wasa",
+  "version": "1.0.0",
+  "description": "Three.js Water Tank",
+  "scripts": {
+    "start": "parcel index.html",
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "three": "^0.180.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}
